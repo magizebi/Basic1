@@ -2,7 +2,6 @@
 #include <string>
 #include <regex>
 #include <array>
-#include <format> // 프로젝트 -> 속성 -> C언어 표준을 C++20으로 변경
 
 using namespace std;
 
